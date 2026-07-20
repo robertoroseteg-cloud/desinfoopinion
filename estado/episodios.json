@@ -1,5 +1,14 @@
 [
   {
+    "id": "83b0cc3e5c3f39dc",
+    "titulo": "Cómo el hype en torno a la IA enmascara la explotación de los trabajadores africanos",
+    "fuente": "opinión – Desinformémonos",
+    "enlace": "https://desinformemonos.org/como-el-hype-en-torno-a-la-ia-enmascara-la-explotacion-de-los-trabajadores-africanos/",
+    "archivo": "83b0cc3e5c3f39dc.mp3",
+    "bytes": 4415616,
+    "timestamp": 1784574818
+  },
+  {
     "id": "e6437d9d30204e7f",
     "titulo": "Fuera del algoritmo y del interés estratégico: los conflictos que el mundo elige no ver",
     "fuente": "opinión – Desinformémonos",
@@ -169,14 +178,5 @@
     "archivo": "9ab010c1c4dc0d72.mp3",
     "bytes": 1422144,
     "timestamp": 1783231476
-  },
-  {
-    "id": "1f84211339589cd4",
-    "titulo": "Reflexiones sobre el día que tembló la tierra",
-    "fuente": "Venezuela – Rebelion",
-    "enlace": "https://rebelion.org/reflexiones-sobre-el-dia-cuando-temblo-la-tierra/",
-    "archivo": "1f84211339589cd4.mp3",
-    "bytes": 3278304,
-    "timestamp": 1783231451
   }
 ]
