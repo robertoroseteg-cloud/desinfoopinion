@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La amistad también es política</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/la-amistad-tambien-es-politica/</description>
+      <link>https://desinformemonos.org/la-amistad-tambien-es-politica/</link>
+      <guid isPermaLink="false">7f16c508277c80cb</guid>
+      <pubDate>Fri, 24 Jul 2026 18:03:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/7f16c508277c80cb.mp3" length="3191904" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El ejército en la desaparición de los 43 estudiantes de Ayotzinapa</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/el-ejercito-en-la-desaparicion-de-los-43-estudiantes-de-ayotzinapa/</description>
       <link>https://desinformemonos.org/el-ejercito-en-la-desaparicion-de-los-43-estudiantes-de-ayotzinapa/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9b959d8f14033bc9</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:46 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9b959d8f14033bc9.mp3" length="4088448" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La matanza de Aguas Blancas: el paradigma de la Impunidad</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/la-matanza-de-aguas-blancas-el-paradigma-de-la-impunidad/</description>
-      <link>https://desinformemonos.org/la-matanza-de-aguas-blancas-el-paradigma-de-la-impunidad/</link>
-      <guid isPermaLink="false">3297fdeaa9929fb1</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/3297fdeaa9929fb1.mp3" length="3822624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
