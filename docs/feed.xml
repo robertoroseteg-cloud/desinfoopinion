@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Sierpe para siempre</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/sierpe-para-siempre/</description>
+      <link>https://desinformemonos.org/sierpe-para-siempre/</link>
+      <guid isPermaLink="false">9fad87cfbaf07bad</guid>
+      <pubDate>Wed, 29 Jul 2026 17:00:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9fad87cfbaf07bad.mp3" length="4176000" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Daniel Ortega se autoproclama dictador: Frei Betto</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/daniel-ortega-se-autoproclama-dictador/</description>
       <link>https://desinformemonos.org/daniel-ortega-se-autoproclama-dictador/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">4ea2e05f92044d12</guid>
       <pubDate>Wed, 08 Jul 2026 06:00:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4ea2e05f92044d12.mp3" length="8442432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Extractivismo de datos y el espejismo de la inclusión algorítmica</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/extractivismo-de-datos-y-el-espejismo-de-la-inclusion-algoritmica/</description>
-      <link>https://desinformemonos.org/extractivismo-de-datos-y-el-espejismo-de-la-inclusion-algoritmica/</link>
-      <guid isPermaLink="false">f77da6a63205c21a</guid>
-      <pubDate>Wed, 08 Jul 2026 05:59:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/f77da6a63205c21a.mp3" length="3305232" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
