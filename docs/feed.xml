@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Quilicura, zona de sacrificio</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/quilicura-zona-de-sacrificio/</description>
+      <link>https://desinformemonos.org/quilicura-zona-de-sacrificio/</link>
+      <guid isPermaLink="false">5ccf0955a1928ec5</guid>
+      <pubDate>Tue, 11 Aug 2026 14:01:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/5ccf0955a1928ec5.mp3" length="218016" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los pueblos refundan el significado de revolución</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/los-pueblos-refundan-el-significado-de-revolucion/</description>
       <link>https://desinformemonos.org/los-pueblos-refundan-el-significado-de-revolucion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7e680b821b97e5aa</guid>
       <pubDate>Thu, 23 Jul 2026 17:08:50 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/7e680b821b97e5aa.mp3" length="6984000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El algoritmo no habla zapoteco</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/el-algoritmo-no-habla-zapoteco/</description>
-      <link>https://desinformemonos.org/el-algoritmo-no-habla-zapoteco/</link>
-      <guid isPermaLink="false">30dca02db90b7d54</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/30dca02db90b7d54.mp3" length="2812032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
