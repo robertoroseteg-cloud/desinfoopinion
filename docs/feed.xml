@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Estrategias Latinoamericanas ante la edición génica</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/estrategias-latinoamericanas-ante-la-edicion-genica/</description>
+      <link>https://desinformemonos.org/estrategias-latinoamericanas-ante-la-edicion-genica/</link>
+      <guid isPermaLink="false">23b0271cb6884117</guid>
+      <pubDate>Thu, 20 Aug 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/23b0271cb6884117.mp3" length="4684608" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Persecución transexenal contra el CECOP en Guerrero</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/persecucion-transexenal-contra-el-cecop-en-guerrero/</description>
       <link>https://desinformemonos.org/persecucion-transexenal-contra-el-cecop-en-guerrero/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">e2951d491f17f1e8</guid>
       <pubDate>Tue, 28 Jul 2026 17:50:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/e2951d491f17f1e8.mp3" length="2556864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Jesús Plácido: víctima de la fabricación de un delito</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/jesus-placido-victima-de-la-fabricacion-de-un-delito/</description>
-      <link>https://desinformemonos.org/jesus-placido-victima-de-la-fabricacion-de-un-delito/</link>
-      <guid isPermaLink="false">7466cc9fc1c34aa3</guid>
-      <pubDate>Tue, 28 Jul 2026 17:50:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/7466cc9fc1c34aa3.mp3" length="3309264" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
