@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Carreteras del olvido en la Montaña</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</description>
+      <link>https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</link>
+      <guid isPermaLink="false">93bae807f78108a3</guid>
+      <pubDate>Wed, 26 Aug 2026 13:36:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/93bae807f78108a3.mp3" length="1099728" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El progresismo: la inmersión capitalista en la trama comunitaria</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/el-progresismo-la-inmersion-capitalista-en-la-trama-comunitaria/</description>
       <link>https://desinformemonos.org/el-progresismo-la-inmersion-capitalista-en-la-trama-comunitaria/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9c95bd1adc0d1be9</guid>
       <pubDate>Mon, 03 Aug 2026 15:28:18 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9c95bd1adc0d1be9.mp3" length="2836224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Keiko contra Keiko</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/keiko-contra-keiko/</description>
-      <link>https://desinformemonos.org/keiko-contra-keiko/</link>
-      <guid isPermaLink="false">e607380a85bad1b7</guid>
-      <pubDate>Fri, 31 Jul 2026 15:04:54 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/e607380a85bad1b7.mp3" length="1625328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
