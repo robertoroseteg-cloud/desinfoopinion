@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>De cómo los medios de comunicación venden el genocidio palestino</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</description>
+      <link>https://desinformemonos.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</link>
+      <guid isPermaLink="false">f399dbeb838b4bdc</guid>
+      <pubDate>Fri, 28 Aug 2026 22:36:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/f399dbeb838b4bdc.mp3" length="6186960" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Carreteras del olvido en la Montaña</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</description>
       <link>https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">c93db5839224efb7</guid>
       <pubDate>Tue, 04 Aug 2026 15:05:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/c93db5839224efb7.mp3" length="1955376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La geopolítica de la crisis migratoria en Ceuta</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/la-geopolitica-de-la-crisis-migratoria-en-ceuta/</description>
-      <link>https://desinformemonos.org/la-geopolitica-de-la-crisis-migratoria-en-ceuta/</link>
-      <guid isPermaLink="false">9c95bd1adc0d1be9</guid>
-      <pubDate>Mon, 03 Aug 2026 15:28:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9c95bd1adc0d1be9.mp3" length="2836224" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
