@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La Huelga. 1986</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/la-huelga-1986/</description>
+      <link>https://desinformemonos.org/la-huelga-1986/</link>
+      <guid isPermaLink="false">4a3c9d35ee7b68d2</guid>
+      <pubDate>Wed, 02 Sep 2026 16:50:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4a3c9d35ee7b68d2.mp3" length="809280" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Memoria y corazón por los desaparecidos</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/memoria-y-corazon-por-los-desaparecidos/</description>
+      <link>https://desinformemonos.org/memoria-y-corazon-por-los-desaparecidos/</link>
+      <guid isPermaLink="false">dfaaef8153c75c12</guid>
+      <pubDate>Wed, 02 Sep 2026 16:50:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/dfaaef8153c75c12.mp3" length="3672144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Cómo invocar la memoria? Fragmentos desde España</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/como-invocar-la-memoria-fragmentos-desde-espana/</description>
       <link>https://desinformemonos.org/como-invocar-la-memoria-fragmentos-desde-espana/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">f873fc0bda30d721</guid>
       <pubDate>Thu, 13 Aug 2026 14:02:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/f873fc0bda30d721.mp3" length="1537920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Quilicura, zona de sacrificio</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/quilicura-zona-de-sacrificio/</description>
-      <link>https://desinformemonos.org/quilicura-zona-de-sacrificio/</link>
-      <guid isPermaLink="false">5ccf0955a1928ec5</guid>
-      <pubDate>Tue, 11 Aug 2026 14:01:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/5ccf0955a1928ec5.mp3" length="218016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los pueblos refundan el significado de revolución</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/los-pueblos-refundan-el-significado-de-revolucion/</description>
-      <link>https://desinformemonos.org/los-pueblos-refundan-el-significado-de-revolucion/</link>
-      <guid isPermaLink="false">1cc5baf06d93118b</guid>
-      <pubDate>Sun, 09 Aug 2026 13:33:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/1cc5baf06d93118b.mp3" length="1210176" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
