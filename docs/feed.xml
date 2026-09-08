@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Informe presidencial y realidades que increpan</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/informe-presidencial-y-realidades-que-increpan/</description>
+      <link>https://desinformemonos.org/informe-presidencial-y-realidades-que-increpan/</link>
+      <guid isPermaLink="false">96b5b4f5c9cf34a2</guid>
+      <pubDate>Tue, 08 Sep 2026 16:51:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/96b5b4f5c9cf34a2.mp3" length="3860208" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El futuro del Istmo que ya vimos en Querétaro</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/el-futuro-del-istmo-que-ya-vimos-en-queretaro/</description>
+      <link>https://desinformemonos.org/el-futuro-del-istmo-que-ya-vimos-en-queretaro/</link>
+      <guid isPermaLink="false">9863430157e3a93e</guid>
+      <pubDate>Tue, 08 Sep 2026 16:50:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9863430157e3a93e.mp3" length="3778416" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mujeres y disidencias desaparecidas en dictadura y democracia</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/mujeres-y-disidencias-desaparecidas-en-dictadura-y-democracia/</description>
       <link>https://desinformemonos.org/mujeres-y-disidencias-desaparecidas-en-dictadura-y-democracia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">bc69f05262d58b09</guid>
       <pubDate>Tue, 18 Aug 2026 13:26:18 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/bc69f05262d58b09.mp3" length="3646944" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las y los universitarios en la búsqueda e identificación de personas</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/las-y-los-universitarios-en-la-busqueda-e-identificacion-de-personas/</description>
-      <link>https://desinformemonos.org/las-y-los-universitarios-en-la-busqueda-e-identificacion-de-personas/</link>
-      <guid isPermaLink="false">a4cf883788c255c7</guid>
-      <pubDate>Fri, 14 Aug 2026 13:57:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/a4cf883788c255c7.mp3" length="229392" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una gota de esperanza en un mar de misterios del caso Ayotzinapa</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/una-gota-de-esperanza-en-un-mar-de-misterios-del-caso-ayotzinapa/</description>
-      <link>https://desinformemonos.org/una-gota-de-esperanza-en-un-mar-de-misterios-del-caso-ayotzinapa/</link>
-      <guid isPermaLink="false">4afdddf22b19a113</guid>
-      <pubDate>Fri, 14 Aug 2026 13:57:25 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4afdddf22b19a113.mp3" length="226656" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
