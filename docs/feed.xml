@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Jesús Plácido: dos meses de cautiverio del defensor</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</description>
+      <link>https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</link>
+      <guid isPermaLink="false">57da9cb1b4f1925c</guid>
+      <pubDate>Fri, 18 Sep 2026 16:41:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/57da9cb1b4f1925c.mp3" length="1707408" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Feminismo popular y antirracista en la construcción del buen vivir</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/feminismo-popular-y-antirracista-en-la-construccion-del-buen-vivir/</description>
       <link>https://desinformemonos.org/feminismo-popular-y-antirracista-en-la-construccion-del-buen-vivir/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f399dbeb838b4bdc</guid>
       <pubDate>Fri, 28 Aug 2026 22:36:07 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/f399dbeb838b4bdc.mp3" length="6186960" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Carreteras del olvido en la Montaña</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</description>
-      <link>https://desinformemonos.org/carreteras-del-olvido-en-la-montana/</link>
-      <guid isPermaLink="false">93bae807f78108a3</guid>
-      <pubDate>Wed, 26 Aug 2026 13:36:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/93bae807f78108a3.mp3" length="1099728" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
