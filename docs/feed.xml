@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El “Octavo Frente”: Palestina y la batalla por el relato</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/el-octavo-frente-palestina-y-la-batalla-por-el-relato/</description>
+      <link>https://desinformemonos.org/el-octavo-frente-palestina-y-la-batalla-por-el-relato/</link>
+      <guid isPermaLink="false">9c15c66bbc7d0d47</guid>
+      <pubDate>Sat, 19 Sep 2026 16:02:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9c15c66bbc7d0d47.mp3" length="6750144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Jesús Plácido: dos meses de cautiverio del defensor</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</description>
       <link>https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">112c7280a852c32f</guid>
       <pubDate>Sat, 29 Aug 2026 16:51:52 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/112c7280a852c32f.mp3" length="3583728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>De cómo los medios de comunicación venden el genocidio palestino</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</description>
-      <link>https://desinformemonos.org/de-como-los-medios-de-comunicacion-venden-el-genocidio-palestino/</link>
-      <guid isPermaLink="false">f399dbeb838b4bdc</guid>
-      <pubDate>Fri, 28 Aug 2026 22:36:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/f399dbeb838b4bdc.mp3" length="6186960" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
