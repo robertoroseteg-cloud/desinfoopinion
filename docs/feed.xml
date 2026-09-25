@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La CNDH, lejos de los 43 y cerca del ejército</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/la-cndh-lejos-de-los-43-y-cerca-del-ejercito/</description>
+      <link>https://desinformemonos.org/la-cndh-lejos-de-los-43-y-cerca-del-ejercito/</link>
+      <guid isPermaLink="false">78b1d9752bcdd9d8</guid>
+      <pubDate>Fri, 25 Sep 2026 17:30:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/78b1d9752bcdd9d8.mp3" length="2062368" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>43: la ignominia del ejército</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/43-la-ignominia-del-ejercito/</description>
       <link>https://desinformemonos.org/43-la-ignominia-del-ejercito/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">75e595b46df63616</guid>
       <pubDate>Tue, 01 Sep 2026 16:55:18 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/75e595b46df63616.mp3" length="3374496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Chile es un pueblo al sur de Estados Unidos</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/chile-es-un-pueblo-al-sur-de-estados-unidos/</description>
-      <link>https://desinformemonos.org/chile-es-un-pueblo-al-sur-de-estados-unidos/</link>
-      <guid isPermaLink="false">4be3565490f4ce86</guid>
-      <pubDate>Tue, 01 Sep 2026 16:54:26 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4be3565490f4ce86.mp3" length="6482448" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
