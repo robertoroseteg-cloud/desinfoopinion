@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los olvidados: Kenia Inés Hernández Montalván</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/los-olvidados-kenia-ines-hernandez-montalvan/</description>
+      <link>https://desinformemonos.org/los-olvidados-kenia-ines-hernandez-montalvan/</link>
+      <guid isPermaLink="false">dfbf58d2efbf47b7</guid>
+      <pubDate>Sat, 26 Sep 2026 16:42:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/dfbf58d2efbf47b7.mp3" length="1627056" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La CNDH, lejos de los 43 y cerca del ejército</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/la-cndh-lejos-de-los-43-y-cerca-del-ejercito/</description>
       <link>https://desinformemonos.org/la-cndh-lejos-de-los-43-y-cerca-del-ejercito/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dfaaef8153c75c12</guid>
       <pubDate>Wed, 02 Sep 2026 16:50:33 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/dfaaef8153c75c12.mp3" length="3672144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Cómo invocar la memoria? Fragmentos desde España</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/como-invocar-la-memoria-fragmentos-desde-espana/</description>
-      <link>https://desinformemonos.org/como-invocar-la-memoria-fragmentos-desde-espana/</link>
-      <guid isPermaLink="false">75e595b46df63616</guid>
-      <pubDate>Tue, 01 Sep 2026 16:55:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/75e595b46df63616.mp3" length="3374496" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
