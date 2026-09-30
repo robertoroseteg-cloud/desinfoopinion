@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La nueva disputa por las semillas</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/la-nueva-disputa-por-las-semillas/</description>
+      <link>https://desinformemonos.org/la-nueva-disputa-por-las-semillas/</link>
+      <guid isPermaLink="false">6b101f2db7b36520</guid>
+      <pubDate>Wed, 30 Sep 2026 18:07:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/6b101f2db7b36520.mp3" length="7375248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los olvidados: Kenia Inés Hernández Montalván</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/los-olvidados-kenia-ines-hernandez-montalvan/</description>
       <link>https://desinformemonos.org/los-olvidados-kenia-ines-hernandez-montalvan/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">4a3c9d35ee7b68d2</guid>
       <pubDate>Wed, 02 Sep 2026 16:50:52 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4a3c9d35ee7b68d2.mp3" length="809280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Memoria y corazón por los desaparecidos</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/memoria-y-corazon-por-los-desaparecidos/</description>
-      <link>https://desinformemonos.org/memoria-y-corazon-por-los-desaparecidos/</link>
-      <guid isPermaLink="false">dfaaef8153c75c12</guid>
-      <pubDate>Wed, 02 Sep 2026 16:50:33 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/dfaaef8153c75c12.mp3" length="3672144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
