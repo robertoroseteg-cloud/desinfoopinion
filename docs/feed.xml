@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Revolución: fui, soy y seré</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/revolucion-fui-soy-y-sere/</description>
+      <link>https://desinformemonos.org/revolucion-fui-soy-y-sere/</link>
+      <guid isPermaLink="false">b3f2046c074d891f</guid>
+      <pubDate>Thu, 01 Oct 2026 18:34:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/b3f2046c074d891f.mp3" length="7645536" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La nueva disputa por las semillas</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/la-nueva-disputa-por-las-semillas/</description>
       <link>https://desinformemonos.org/la-nueva-disputa-por-las-semillas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7945038bba2cc8a7</guid>
       <pubDate>Sun, 06 Sep 2026 15:42:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/7945038bba2cc8a7.mp3" length="913968" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La Huelga. 1986</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/la-huelga-1986/</description>
-      <link>https://desinformemonos.org/la-huelga-1986/</link>
-      <guid isPermaLink="false">4a3c9d35ee7b68d2</guid>
-      <pubDate>Wed, 02 Sep 2026 16:50:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/4a3c9d35ee7b68d2.mp3" length="809280" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
