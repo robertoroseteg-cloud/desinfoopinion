@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Arnulfo: siete años sin justicia para el defensor de la Montaña</title>
+      <description>opinión – Desinformémonos — https://desinformemonos.org/arnulfo-siete-anos-sin-justicia-para-el-defensor-de-la-montana/</description>
+      <link>https://desinformemonos.org/arnulfo-siete-anos-sin-justicia-para-el-defensor-de-la-montana/</link>
+      <guid isPermaLink="false">1075ee758501b192</guid>
+      <pubDate>Wed, 14 Oct 2026 17:33:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/1075ee758501b192.mp3" length="2697552" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Desastres en La Montaña de Guerrero</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/desastres-en-la-montana-de-guerrero/</description>
       <link>https://desinformemonos.org/desastres-en-la-montana-de-guerrero/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9c15c66bbc7d0d47</guid>
       <pubDate>Sat, 19 Sep 2026 16:02:44 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9c15c66bbc7d0d47.mp3" length="6750144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Jesús Plácido: dos meses de cautiverio del defensor</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</description>
-      <link>https://desinformemonos.org/jesus-placido-dos-meses-de-cautiverio-del-defensor/</link>
-      <guid isPermaLink="false">57da9cb1b4f1925c</guid>
-      <pubDate>Fri, 18 Sep 2026 16:41:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/57da9cb1b4f1925c.mp3" length="1707408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
